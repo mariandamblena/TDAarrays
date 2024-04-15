@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1700345552 source:c:\users\maria\onedrive\documents\universidad\topicos de programacion\clase_tda\tdaarrays\main.c
+	<stdio.h>
+	<stdlib.h>
+	"array.h"
+
+1700345167 source:c:\users\maria\onedrive\documents\universidad\topicos de programacion\clase_tda\tdaarrays\array.c
+	<stdio.h>
+	<stdlib.h>
+	"array.h"
+
+1700408869 c:\users\maria\onedrive\documents\universidad\topicos de programacion\clase_tda\tdaarrays\array.h
+
